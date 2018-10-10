@@ -1,0 +1,1 @@
+This is Metametroids first git project!
